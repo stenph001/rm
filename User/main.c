@@ -10,6 +10,7 @@ int main(void){
 
 	LED_init();
 	
+	uint16_t i;
 
 
 	
